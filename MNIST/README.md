@@ -1,0 +1,1 @@
+Decrompress in this folder _MNIST.7z_ befor running _main_ 
